@@ -12,6 +12,7 @@
 		C79F9A031FC295AE00CCABC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C79F9A011FC295AE00CCABC1 /* Main.storyboard */; };
 		C79F9A051FC295AE00CCABC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C79F9A041FC295AE00CCABC1 /* Assets.xcassets */; };
 		C79F9A081FC295AE00CCABC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C79F9A061FC295AE00CCABC1 /* LaunchScreen.storyboard */; };
+		C79F9A101FC2961C00CCABC1 /* MinimalCheckbox.swift in Sources */ = {isa = PBXBuildFile; fileRef = C79F9A0F1FC2961C00CCABC1 /* MinimalCheckbox.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C79F9A041FC295AE00CCABC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C79F9A071FC295AE00CCABC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C79F9A091FC295AE00CCABC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C79F9A0F1FC2961C00CCABC1 /* MinimalCheckbox.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MinimalCheckbox.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				C79F99FD1FC295AE00CCABC1 /* AppDelegate.swift */,
 				C79F99FF1FC295AE00CCABC1 /* ViewController.swift */,
+				C79F9A0F1FC2961C00CCABC1 /* MinimalCheckbox.swift */,
 				C79F9A011FC295AE00CCABC1 /* Main.storyboard */,
 				C79F9A041FC295AE00CCABC1 /* Assets.xcassets */,
 				C79F9A061FC295AE00CCABC1 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				C79F9A001FC295AE00CCABC1 /* ViewController.swift in Sources */,
 				C79F99FE1FC295AE00CCABC1 /* AppDelegate.swift in Sources */,
+				C79F9A101FC2961C00CCABC1 /* MinimalCheckbox.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
